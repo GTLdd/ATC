@@ -1,0 +1,22 @@
+.text{
+    font-family:'Times New Roman', Times, serif
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+#testamonial{
+    background-color: #E9ECEF;
+}
+
+.bd-footer a {
+    color: var(--bs-body-color);
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: #FFFFFF;
+}
